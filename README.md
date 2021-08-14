@@ -6,10 +6,8 @@ you, the user can experience the magical land
 known as Equestria in all it's glory with tge power
 of technology. 
 
-Programming languages, Python and Lua
+Programming languages, Python (currently learning Lua)
 
-Projects - None
-
-Currently testing ideas
+Projects - Currently testing ideas on Roblox.com (https://www.roblox.com/users/2807485975/profile)
 
 Contact - Theponyprojectofficial@gmail.com 
